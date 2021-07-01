@@ -5,4 +5,4 @@
 ## Technologies
 Css Grid and Flexbox. No JS in this project.
 
-Here's the [Live Preview]()
+Here's the [Live Preview](https://jome-sidehustle-task2.netlify.app/)
